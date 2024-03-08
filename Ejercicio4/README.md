@@ -1,6 +1,6 @@
 # EJERCICIO NO. 4 Taller condicional
 
-## programa peso y altura
+## programa peso y altura.
 
 # DISEÑO
 
